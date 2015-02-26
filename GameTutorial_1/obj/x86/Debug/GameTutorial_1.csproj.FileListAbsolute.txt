@@ -1,0 +1,57 @@
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.exe
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.pdb
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\GameTutorial_1\GameTutorial_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\GameTutorial_1\GameTutorial_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.exe
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.pdb
+C:\Users\Dennis\Documents\Visual Studio 2008\Projects\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\shiny_blue.xnb
+E:\rot\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\shiny_blue.xnb
+E:\rot\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.exe
+E:\rot\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.pdb
+E:\rot\GameTutorial_1\GameTutorial_1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\rot\GameTutorial_1\GameTutorial_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\rot\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.exe
+E:\rot\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.pdb
+E:\rot\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\object.xnb
+E:\rot\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\auto.xnb
+E:\rot\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\tlo.xnb
+E:\rot\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\obs.xnb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\shiny_blue.xnb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\object.xnb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\auto.xnb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\tlo.xnb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\obs.xnb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.exe
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.pdb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.exe
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.pdb
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\shiny_blue.xnb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\object.xnb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\auto.xnb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\tlo.xnb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\obs.xnb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.exe
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.pdb
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.exe
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.pdb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\shiny_blue.xnb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\object.xnb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\auto.xnb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\tlo.xnb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\obs.xnb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.exe
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\GameTutorial_1.pdb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.exe
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.pdb
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GameTutorial_1.Form1.resources
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\obj\x86\Debug\GenerateResource.write.1.tlog

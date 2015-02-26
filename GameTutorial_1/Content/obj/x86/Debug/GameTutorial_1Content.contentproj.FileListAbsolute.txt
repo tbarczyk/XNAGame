@@ -1,0 +1,4 @@
+E:\rot\GameTutorial_1\GameTutorial_1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\gotowy\GameTutorial_1\GameTutorial_1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\got2\gotowy\GameTutorial_1\GameTutorial_1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\Content\obj\x86\Debug\ResolveAssemblyReference.cache

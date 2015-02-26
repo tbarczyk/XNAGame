@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\shiny_blue.JPG</Source>
+      <Name>Textures\shiny_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\shiny_blue.xnb</Output>
+      <Time>2009-01-31T23:36:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\object.jpg</Source>
+      <Name>Textures\object</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\object.xnb</Output>
+      <Time>2013-06-02T21:29:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\auto.jpg</Source>
+      <Name>Textures\auto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\auto.xnb</Output>
+      <Time>2013-06-20T17:36:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tlo.jpg</Source>
+      <Name>Textures\tlo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\tlo.xnb</Output>
+      <Time>2013-06-02T22:47:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\obs.jpg</Source>
+      <Name>Textures\obs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\Textures\obs.xnb</Output>
+      <Time>2013-06-03T17:18:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-06-20T18:20:24+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\DELL\Desktop\got2\gotowy\GameTutorial_1\GameTutorial_1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-06-01T20:16:37.9353797+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

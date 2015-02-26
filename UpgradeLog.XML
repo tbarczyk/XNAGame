@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GameTutorial_1">
+</Property><Property Name="Solution File" Value="E:\rot\GameTutorial_1\GameTutorial_1.sln">
+</Property><Property Name="User Options File" Value="E:\rot\GameTutorial_1\GameTutorial_1.suo">
+</Property><Property Name="Date" Value="2 czerwca 2013">
+</Property><Property Name="Time" Value="19:55">
+</Property><Property Name="Solution" Value="GameTutorial_1">
+</Property><Property Name="Solution File" Value="E:\rot\GameTutorial_1\GameTutorial_1.sln">
+</Property><Property Name="Date" Value="2 czerwca 2013">
+</Property><Property Name="Time" Value="19:55:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GameTutorial_1.sln" Description="File successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GameTutorial_1.suo" Description="File successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1.suo">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\GameTutorial_1.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\GameTutorial_1.csproj" Description="Project file successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1\GameTutorial_1.csproj">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\GameTutorial_1.csproj.user" Description="Project user file successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1\GameTutorial_1.csproj.user">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\Program.cs" Description="File successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1\Program.cs">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\Game1.cs" Description="File successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1\Game1.cs">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\Game.ico" Description="File successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1\Game.ico">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\GameThumbnail.png" Description="File successfully backed up as E:\rot\GameTutorial_1\Backup\GameTutorial_1\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\GameTutorial_1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GameTutorial_1" Source="GameTutorial_1\GameTutorial_1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GameTutorial_1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GameTutorial_1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\GameTutorial_1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1" Source="GameTutorial_1\GameTutorial_1.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="shiny_blue.JPG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="GameTutorial_1Content" Source="GameTutorial_1\Content\GameTutorial_1Content.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>
